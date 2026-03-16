@@ -48,8 +48,6 @@ To ensure the accuracy of the analysis, the following technical steps were taken
 2. **Rural Cushion:** Rural unemployment rates were generally **4-8% lower** than Urban rates during the strict lockdown phase, likely due to sustained agricultural activity.
 3. **Correlation:** A strong negative correlation exists between the **Unemployment Rate** and **Estimated Employed** counts, validating the data's integrity.
 
----
-
 ## 📂 Project Structure
 * `Unemployment_Analysis.ipynb`: The complete Python source code.
 * `Unemployment_Data.csv`: The raw dataset used for analysis.
@@ -62,3 +60,5 @@ To ensure the accuracy of the analysis, the following technical steps were taken
 2. Install the required libraries:
    ```bash
    pip install pandas plotly seaborn matplotlib
+
+---
