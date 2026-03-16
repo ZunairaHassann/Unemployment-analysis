@@ -27,6 +27,15 @@ This repository contains a comprehensive data analysis project focused on the **
 3.  **Line Trends:** Timeline analysis of the COVID-19 impact.
 4.  **Box & Violin Plots:** Distribution and outlier analysis for regional data.
 
+## 📋 Dataset Description
+| Column | Description |
+| :--- | :--- |
+| **States** | The specific state in India. |
+| **Date** | The date of the recording. |
+| **Estimated Unemployment Rate (%)** | Percentage of the labor force that is unemployed. |
+| **Estimated Employed** | Number of people currently employed. |
+| **Region** | The geographic region (North, South, etc.). |
+
 ---
 
 ## 📂 Project Structure
